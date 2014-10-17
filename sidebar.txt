@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xra:home|Door43 (xra)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xra|d43-xra repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xra/archive/master.zip|d43-xra.zip]]
+
+**Recent Changes**
+{{changes>ns = xra}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xra|Ethnologue data]]
+
